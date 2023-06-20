@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+background-color: bisque;
+}
+
+.principal{
+width: auto;
+height: auto;
+margin: auto;
+padding: 15px;
+box-shadow: 2px 4px rgba(hsl(320, 100%, 50%), rgb(2, 0, 128), rgb(0, 255, 0), alpha);
+
+
+}
