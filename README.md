@@ -1,2 +1,2 @@
 # Professor
-Formação Seed
+Formação 
